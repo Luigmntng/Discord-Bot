@@ -5,8 +5,8 @@ const config = {
 	api_keys: {
 		// https://dev.twitch.tv/console/apps
 		twitch: {
-			clientID: '',
-			clientSecret: '',
+			clientID: '2luo39vdw3idncptqyav8hfy961nz1',
+			clientSecret: '9wqc6m7y6eczcj3buiti3hhovsh4gc',
 		},
 		// https://fortnitetracker.com/site-api
 		fortnite: 'fortniteAPI-Key',
