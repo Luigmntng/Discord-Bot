@@ -1,6 +1,6 @@
 const config = {
-	ownerID: ['YourAccountID'],
-	token: 'YourBotToken',
+	ownerID: ['959740251453141002'],
+	token: 'OTU5NzM2OTc3NjQ3ODc4MTQ1.YkgOtg.4lihSXC3-GL3VpI2umRYOFHRuxI',
 	// For looking up Twitch, Fortnite, Steam accounts
 	api_keys: {
 		// https://dev.twitch.tv/console/apps
@@ -14,7 +14,7 @@ const config = {
 		steam: 'steamAPI-Key',
 		// https://developer.spotify.com/documentation/web-api/
 		spotify: {
-			iD: 'spotify-ID',
+			iD: '6rqhFgbbKwnb9MLmUQDhG6',
 			secret: 'spotify-secret',
 		},
 		// Your Ubisoft email and password (You don't need to enable anything)
@@ -34,7 +34,7 @@ const config = {
 	// your support server
 	SupportServer: {
 		// Link to your support server
-		link: 'https://discord.gg/8g6zUQu',
+		link: 'https://discord.gg/Rf6ZxsFQ',
 		// Your support's server ID
 		GuildID: '750822670505082971',
 		// This for using the suggestion command on your server
